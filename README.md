@@ -5,7 +5,7 @@ At foder sso-php-session
 + brower : localhost:8888/manager/login.php to first login
 
 + php -S localhost:9999
-+ brower : localhost:9999/web_page/web_page to show infomation 
++ brower : localhost:9999/web_page/web_page to show infomation.
  
 Concept:
 <ul>
